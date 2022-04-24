@@ -1,0 +1,8 @@
+{
+  "name": "scaffolding-node-modules",
+  "description": "Create empty node_modules folder, create package manually and try to use it from local code by using require function",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
