@@ -10,4 +10,6 @@
 
 // This works because foo contains index.js
 const foo = require('foo');
-console.log({ foo: foo() });
+// This works because bar contains package.json property "main"
+const bar = require('bar');
+console.log({ foo: foo(), bar: bar() });
