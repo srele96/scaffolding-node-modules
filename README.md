@@ -1,5 +1,7 @@
 # NodeJS - Scaffolding node modules
 
+**NOTE!!! TO SEE INCREMENTAL EXAMPLES, VISIT EACH BRANCH - STEP 1 THROUGH 4**
+
 For many web developers node modules directory, created by NodeJS is mystery for
 a long time.
 
