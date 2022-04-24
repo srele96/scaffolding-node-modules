@@ -12,4 +12,6 @@
 const foo = require('foo');
 // This works because bar contains package.json property "main"
 const bar = require('bar');
-console.log({ foo: foo(), bar: bar() });
+// This works because baz contains package.json exports field
+const math = require('baz/math');
+console.log({ foo: foo(), bar: bar(), math: math() });
