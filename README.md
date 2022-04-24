@@ -1,5 +1,7 @@
 # NodeJS - Scaffolding node modules
 
+**This research belongs to my collection https://github.com/srele96/sk-experiments/tree/develop/no-module/scaffolding-node-modules**
+
 **NOTE!!! TO SEE INCREMENTAL EXAMPLES, VISIT EACH BRANCH - STEP 1 THROUGH 4**
 
 For many web developers node modules directory, created by NodeJS is mystery for
